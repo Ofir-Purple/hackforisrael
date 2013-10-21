@@ -161,6 +161,7 @@ INSTALLED_APPS = (
     'q13es',
     'student_applications',
     'hashmabir',
+    'tickets',
 
     'allauth',
     'allauth.account',
